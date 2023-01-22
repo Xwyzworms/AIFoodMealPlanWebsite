@@ -120,8 +120,10 @@ Sign in
 iOS app
 Android app
 About Omnifood
+
 For Business
 Cooking partners
+
 Careers
 Recipe directory
 Help center
